@@ -16,7 +16,7 @@ I'm also adding an AI layer to help investigate transaction issues and explain w
 * PostgreSQL
 * React & TypeScript
 * AI/LLM APIs
-* Docker
+* Docker & Kubernetes
 
 ## Architecture
 
